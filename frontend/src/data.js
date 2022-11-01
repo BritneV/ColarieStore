@@ -81,7 +81,7 @@ export const products = [
             image1: "/images/products/34.jpeg",
             image2: "/images/products/35.jpeg",
             image3: "/images/products/36.jpeg",
-            countInStock: 4,
+            countInStock: 78,
             price: "92.00",
         },
         {
