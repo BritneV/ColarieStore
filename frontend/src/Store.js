@@ -62,7 +62,7 @@ function reducer(state, action) {
                 cartItems: [],
                 shippingAddress: {},
                 paymentMethod: '',
-              },
+            },
             };
         }
 
