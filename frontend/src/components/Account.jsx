@@ -17,7 +17,7 @@ const Account = () => {
             <div className="account-container">
                 <div className="account-row">
                     <div className="account-col">
-                        <h2 className="account-title">Your Account</h2>
+                        <h2 className="account-title">Tu cuenta</h2>
                     </div>
                 </div>
                 <div className='account-row'>
